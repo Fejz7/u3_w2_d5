@@ -40,7 +40,7 @@ function MainWeather() {
           <p>temperature:{weatherData.main.temp}</p>
           <p>humidity:{weatherData.main.humidity}</p>
           <p>pressure:{weatherData.main.pressure}</p>
-          {/* Display other weather information */}
+
           
         </div>
       )}
